@@ -11,4 +11,3 @@
 | `backend`  | 后台文档 | [backend](https://github.com/chencong-plan/mmall-wiki/tree/master/backend) |
 | `frontend` | 前台文档 | [frontend](https://github.com/chencong-plan/mmall-wiki/tree/master/frontend) |
 
-科研项目指导说明
